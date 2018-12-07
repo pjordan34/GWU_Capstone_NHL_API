@@ -38,4 +38,4 @@ While the algorithms ability to predict a winner given game data is good, I need
 In closing this was my first real "soup to nuts" project done in python, prior to this I worked more in R, frankly this data would be perfect for an R project, but I learned so much and I am much more confident in my python skills then when I started.
  
 
-
+A link to a data dictionary to define the statistical terms for the NHL data can be found at [Offside Review](http://offsidereview.com/glossary/)
